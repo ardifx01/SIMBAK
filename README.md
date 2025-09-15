@@ -33,7 +33,7 @@ Ikuti langkah-langkah berikut untuk menjalankan SIMBAK di lokal:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/fazarprgmr/SIMBAK.git
+git clone https://github.com/ardifx01/SIMBAK.git
 cd SIMBAK
 ```
 ```bash
